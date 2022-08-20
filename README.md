@@ -18,7 +18,10 @@ item ao clicar sobre ele </p>
 
 <p align="left">Segue uma pequena demonstração do projeto em funcionamento</p>
 
-![](https://github.com/Lucas8901/Starbucks_page/blob/main/bandicam%202022-08-19%2021-03-35-385%20(1).gif)
+  <div align="left">
+  <img src="https://github.com/Lucas8901/Starbucks_page/blob/main/bandicam%202022-08-19%2021-03-35-385%20(1).gif"/>
+  </div>
+
 
 <br>
 <br>
